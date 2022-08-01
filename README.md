@@ -10,10 +10,14 @@ This tutorial will show you how to apply style transfer to a picture using image
 
 You can clone this repository directly in *Google Colab* using the following command:
 ```
-$ git clone https://github.com/datarootsio/style-transfer-workshop.git
+$ !git clone https://github.com/datarootsio/workshop-image-segmentation-style-transfer.git
 ```
 
-You can also open the tutorial notebook with [this link](https://colab.research.google.com/github/datarootsio/style-transfer-workshop/blob/main/notebooks/tutorial.ipynb).
+You can also open the tutorial notebook with [this link](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/tutorial.ipynb).
+
+The two notebooks containing the exercise sessions can also be opened in colab using the following links:
+- [Image segmentation exercise session](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/exercise_segmentation.ipynb)
+- [Style transfer exercise session](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/exercise_style_transfer.ipynb)
 
 <span style="color:red">IMPORTANT INSTRUCTIONS: </span>
 Please make a copy of this notebook. 
