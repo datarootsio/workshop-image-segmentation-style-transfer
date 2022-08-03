@@ -13,9 +13,9 @@ You can clone this repository directly in *Google Colab* using the following com
 $ !git clone https://github.com/datarootsio/workshop-image-segmentation-style-transfer.git
 ```
 
-You can also open the tutorial notebook with [this link](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/tutorial.ipynb).
+You can also open the tutorial notebook with the following link: [Tutoral style transfer using image segmentation](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/tutorial.ipynb).
 
-The notebook containing the exercises can also be opened in colab using the following link: [Image segmentation & Style transfer exercise session](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/exercise.ipynb)
+The notebook containing the exercises can also be opened in colab using the following link: [Image segmentation & Style transfer exercise session](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/exercise.ipynb).
 
 <span style="color:red">IMPORTANT INSTRUCTIONS: </span>
 Please make a copy of this notebook. 
