@@ -1,3 +1,5 @@
+[![maintained by dataroots](https://img.shields.io/badge/maintained%20by-dataroots-%2300b189)](https://dataroots.io)
+
 # Style transfer workshop
 
 Do you want to restyle or redesign your interior, but don't want to leave the comfort of your own home? Don't fancy reading through hundreds of interior design albums or going to your local furniture store to try imagining those couches in your own living room? Have you always dreamed of a couch with an extravagant tiger print, but you don't know if it will fit your interior? 
