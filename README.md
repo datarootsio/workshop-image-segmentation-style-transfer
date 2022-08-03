@@ -15,9 +15,7 @@ $ !git clone https://github.com/datarootsio/workshop-image-segmentation-style-tr
 
 You can also open the tutorial notebook with [this link](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/tutorial.ipynb).
 
-The two notebooks containing the exercise sessions can also be opened in colab using the following links:
-- [Image segmentation exercise session](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/exercise_segmentation.ipynb)
-- [Style transfer exercise session](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/exercise_style_transfer.ipynb)
+The notebook containing the exercises can also be opened in colab using the following link: [Image segmentation & Style transfer exercise session](https://colab.research.google.com/github/datarootsio/workshop-image-segmentation-style-transfer/blob/main/notebooks/exercise.ipynb)
 
 <span style="color:red">IMPORTANT INSTRUCTIONS: </span>
 Please make a copy of this notebook. 
